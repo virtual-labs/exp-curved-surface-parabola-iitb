@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "The curved surface of dam having equation y = x<sup>2</sup>/10. The height 'h' of the dam is 14 m and width is 1 m. Calculate inclination with horizontal.",
+        "qid": 1,
+        "option_a": "49.12",
+        "option_b": "48.41",
+        "option_c": "48.52",
+        "option_d": "48.89",
+        "correct_option": "b"
+    },
+    {
+        "question": "The curved surface of dam having equation y = x<sup>2</sup>/10. The height 'h' of the dam is 11 m and width is 1 m. Calculate inclination with horizontal.",
+        "qid": 2,
+        "option_a": "51.81",
+        "option_b": "51.23",
+        "option_c": "52.98",
+        "option_d": "50.89",
+        "correct_option": "a"
+    }
+]
